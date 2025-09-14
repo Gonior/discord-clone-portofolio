@@ -64,7 +64,7 @@ export default function Home() {
               <div className='border-[1px] border-gray-900 w-10 mx-auto'>
               </div>
               <div className='relative flex items-center justify-center '>
-                <div className="h-10 w-10 bg-gray-800 rounded-lg flex justify-center items-center before:content-[''] before:h-1 before:bg-white before:w-1 before:rounded-r-full before:absolute before:left-0 active:before:h-10 hover:before:scale-100 hover:before:h-5 before:transition-all before:duration-100 ease-in-out">
+                <div className="h-10 w-10 bg-gray-800 rounded-lg flex justify-center items-center before:content-[''] before:h-2 before:bg-white before:w-1 before:rounded-r-full before:absolute before:left-0 active:before:h-10 hover:before:scale-100 hover:before:h-5 before:transition-all before:duration-100 ease-in-out">
                   <h1 className='text-xl'>ds</h1>
                 </div>
               </div>
@@ -85,20 +85,6 @@ export default function Home() {
                 <button className='text-sm rounded-lg bg-gray-800 w-full h-full font-semibold hover:bg-gray-900'>Find or start a conversation</button>
               </div>
               <div className='overflow-hidden hover:overflow-y-auto custom-scrollbar-1 mr-1.5 pb-2'>
-                <div>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum, nostrum, placeat accusamus autem commodi doloribus asperiores ratione architecto animi neque et. Necessitatibus porro modi facere mollitia quia. Veniam, inventore repellat!</div>
-              <div>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum, nostrum, placeat accusamus autem commodi doloribus asperiores ratione architecto animi neque et. Necessitatibus porro modi facere mollitia quia. Veniam, inventore repellat!</div>
-              <div>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum, nostrum, placeat accusamus autem commodi doloribus asperiores ratione architecto animi neque et. Necessitatibus porro modi facere mollitia quia. Veniam, inventore repellat!</div>
-              <div>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum, nostrum, placeat accusamus autem commodi doloribus asperiores ratione architecto animi neque et. Necessitatibus porro modi facere mollitia quia. Veniam, inventore repellat!</div>
-              <div>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum, nostrum, placeat accusamus autem commodi doloribus asperiores ratione architecto animi neque et. Necessitatibus porro modi facere mollitia quia. Veniam, inventore repellat!</div>
-              <div>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum, nostrum, placeat accusamus autem commodi doloribus asperiores ratione architecto animi neque et. Necessitatibus porro modi facere mollitia quia. Veniam, inventore repellat!</div><div>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum, nostrum, placeat accusamus autem commodi doloribus asperiores ratione architecto animi neque et. Necessitatibus porro modi facere mollitia quia. Veniam, inventore repellat!</div>
-              <div>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum, nostrum, placeat accusamus autem commodi doloribus asperiores ratione architecto animi neque et. Necessitatibus porro modi facere mollitia quia. Veniam, inventore repellat!</div>
-              <div>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum, nostrum, placeat accusamus autem commodi doloribus asperiores ratione architecto animi neque et. Necessitatibus porro modi facere mollitia quia. Veniam, inventore repellat!</div>
-              <div>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum, nostrum, placeat accusamus autem commodi doloribus asperiores ratione architecto animi neque et. Necessitatibus porro modi facere mollitia quia. Veniam, inventore repellat!</div>
-              <div>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum, nostrum, placeat accusamus autem commodi doloribus asperiores ratione architecto animi neque et. Necessitatibus porro modi facere mollitia quia. Veniam, inventore repellat!</div>
-              <div>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum, nostrum, placeat accusamus autem commodi doloribus asperiores ratione architecto animi neque et. Necessitatibus porro modi facere mollitia quia. Veniam, inventore repellat!</div>
-              <div>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum, nostrum, placeat accusamus autem commodi doloribus asperiores ratione architecto animi neque et. Necessitatibus porro modi facere mollitia quia. Veniam, inventore repellat!</div>
-              <div>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum, nostrum, placeat accusamus autem commodi doloribus asperiores ratione architecto animi neque et. Necessitatibus porro modi facere mollitia quia. Veniam, inventore repellat!</div>
-              <div>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum, nostrum, placeat accusamus autem commodi doloribus asperiores ratione architecto animi neque et. Necessitatibus porro modi facere mollitia quia. Veniam, inventore repellat!</div>
               </div>
               
             </div>
@@ -127,7 +113,7 @@ export default function Home() {
                 <h1 className='font-sm font-semibold leading-none'>ddcy</h1>
                 <div className='text-xs text-gray-400 h-[12px] overflow-hidden'>
                   <p className='transition-transform duration-200 ease-in-out group-hover:-translate-y-[12px]'>online</p>
-                  <p className='transition-transform duration-200 ease-in-out group-hover:-translate-y-[16px] '>username</p>
+                  <p className='transition-transform duration-200 ease-in-out group-hover:-translate-y-[17px] '>username</p>
 
                 </div>
                 
